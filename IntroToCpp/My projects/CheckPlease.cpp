@@ -1,10 +1,3 @@
-//
-//  My own.cpp
-//  IntroToCpp
-//
-//  Created by Pedram  on 2020-09-09.
-//  Copyright © 2020 Pedram . All rights reserved.
-//
 #include <iostream>
 using namespace std;
 
