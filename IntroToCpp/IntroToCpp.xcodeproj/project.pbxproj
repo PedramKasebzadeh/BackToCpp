@@ -57,9 +57,17 @@
 		13AAA02624FD47D000674B89 /* IntroToCpp */ = {
 			isa = PBXGroup;
 			children = (
+				13D3A0E1252C5B5000A7B40F /* CodeWars  */,
 				13297A9325090B2A005F29BD /* My own.cpp */,
 			);
 			path = IntroToCpp;
+			sourceTree = "<group>";
+		};
+		13D3A0E1252C5B5000A7B40F /* CodeWars  */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "CodeWars ";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
